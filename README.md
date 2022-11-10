@@ -17,7 +17,7 @@ Esse projeto foi elaborado para web. </br>
 
 Para acessar basta clicar no link abaixo:
 
-
+https://calcule-seu-imc-mmc.netlify.app/
 
 ## 📝 Licença
 
